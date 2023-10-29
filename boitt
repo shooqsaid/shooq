@@ -1,0 +1,3 @@
+read pricel, price 2
+sum=pricel+price 2
+print sum
