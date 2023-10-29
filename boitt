@@ -1,3 +1,4 @@
 read pricel, price 2
 sum=pricel+price 2
 print sum
+if sum is greater than 500 than discount else no discount
